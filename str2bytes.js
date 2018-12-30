@@ -27,7 +27,7 @@ var str2bytes = function (str) {
 };
 
 /**
- * Converting the given byte array to string
+ * Convert the given byte array to string
  * 
  * @param {number[]} bytes The byte array to be converted to string
  * @returns {string}
