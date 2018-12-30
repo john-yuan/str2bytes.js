@@ -1,5 +1,7 @@
 # Convert string to byte array
 
+[![Build Status](https://travis-ci.org/john-yuan/str2bytes.js.svg?branch=master)](https://travis-ci.org/john-yuan/str2bytes.js)
+
 This library helps you to convert string to byte array in javascript. It can convert any string you can use in javascript, including a string containing emoji (✌️). It mainly makes use of the following functions within the enviorenment (browser & Node.js):
 
 * [encodeURIComponent(str)][encodeURIComponent]
