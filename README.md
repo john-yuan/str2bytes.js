@@ -8,11 +8,13 @@ This library helps you to convert string to byte array in javascript. It can con
 * [decodeURIComponent(encodedURI)][decodeURIComponent]
 * [parseInt(string, radix)][parseInt]
 * [Number.prototype.toString([radix])][toString]
+* [String.prototype.charCodeAt(index)][charCodeAt]
 
 [encodeURIComponent]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent
 [decodeURIComponent]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/decodeURIComponent
 [parseInt]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/parseInt
 [toString]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Number/toString
+[charCodeAt]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt
 
 > The main target enviorenment of this library is the browser, but you can use it in Node.js if you like.
 
